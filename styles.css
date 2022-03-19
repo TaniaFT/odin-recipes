@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 58, 58);
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Book Antiqua, Palatino, Palatino Linotype, Palatino LT STD, Georgia, serif;
+    color: salmon;
+}
+
+h3 {
+    color: coral;
+}
+
+.main-pic {
+    width: 500px;
+    border-radius: 5%;
+    display: block;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+
+.recipe-top, .recipe-main {
+    display: block;
+    padding: 0 5%;
+}
+
+.button-block {
+    display: block;
+
+}
+
+button {
+    padding: 10px;
+    width: 200px;
+    margin: 2rem 0;
+    display: block;
+}
+
+.button-block button:hover {
+    background-color: rgb(255, 204, 184);
