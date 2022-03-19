@@ -20,6 +20,33 @@ h3 {
     margin: auto;
 }
 
+
+
+#website-title{
+    margin: 5%;
+}
+
+.button-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+button {
+    padding: 20px;
+    height: 60px;
+    width: 200px;
+    margin-left: 5%;
+    flex: 1 1 auto;
+}
+
+.button-block button:hover {
+    background-color: rgb(255, 204, 184);
+
+
+/* RECIPE PAGE SPECIFIC */
+
 .title {
     text-align: center;
 }
@@ -29,18 +56,3 @@ h3 {
     display: block;
     padding: 0 5%;
 }
-
-.button-block {
-    display: block;
-
-}
-
-button {
-    padding: 10px;
-    width: 200px;
-    margin: 2rem 0;
-    display: block;
-}
-
-.button-block button:hover {
-    background-color: rgb(255, 204, 184);
