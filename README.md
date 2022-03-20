@@ -1,7 +1,6 @@
 # odin-recipes
 A basic recipe website.
 
-A test in creating a basic site with HTML to cement learning.
+A test in creating a basic site with HTML to cement learning, with basic CSS.
 
-Aim is to later revisit to add CSS updates.
-
+View https://taniaft.github.io/odin-recipes/ for live version.

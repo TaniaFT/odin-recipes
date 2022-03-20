@@ -21,9 +21,8 @@ h3 {
 }
 
 
-
 #website-title{
-    margin: 5%;
+    margin: 20px;
 }
 
 .button-block {
@@ -37,13 +36,13 @@ button {
     padding: 20px;
     height: 60px;
     width: 200px;
-    margin-left: 5%;
+    margin-left: 20px;
     flex: 1 1 auto;
 }
 
 .button-block button:hover {
     background-color: rgb(255, 204, 184);
-
+}
 
 /* RECIPE PAGE SPECIFIC */
 
